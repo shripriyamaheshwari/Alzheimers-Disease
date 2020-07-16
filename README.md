@@ -1,6 +1,7 @@
 # Alzheimers-Disease
 
 **Introduction**
+
 Alzheimer’s is a widespread, irreversible, progressive neurodegenerative disease, with complex genetic architecture.
 
 Previous prediction methods can be roughly divided into five types1. Methods studying protein-protein interaction networks
@@ -23,4 +24,9 @@ The <a href = "https://pubmed.ncbi.nlm.nih.gov/29320986/">research paper</a> by 
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = "1000">
 
 **Dataset**
+
 The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The featurs include number of positive and negative Alzheimer's cases in control studies and family-based studies.
+
+**Comparsion Results**
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/comp_table.PNG" width = "600">
