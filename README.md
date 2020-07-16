@@ -27,6 +27,20 @@ The <a href = "https://pubmed.ncbi.nlm.nih.gov/29320986/">research paper</a> by 
 
 The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The featurs include number of positive and negative Alzheimer's cases in control studies and family-based studies.
 
+**Code Output**
+
+1. SVM Method (Radial Kernel, C=1)
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/SVM_radial_kernel.PNG" width = 600>
+
+2. SVM Method (Gaussian Kernel, C=2)
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/gaussian_kernel.PNG" width=600>
+
+3. Using Classification and Regression Trees (CART)
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/CART_Algorithm.PNG" width=600>
+
 **Comparsion Results**
 
 <img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/comp_table.PNG" width = "600">
