@@ -21,7 +21,7 @@ learning.
 
 The <a href = "https://pubmed.ncbi.nlm.nih.gov/29320986/">research paper</a> by Huang et al. on Revealing Alzheimer’s disease genes spectrum in the whole-genome by machine learning was used as a reference for this project.
 
-<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = "1000">
+<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = "600">
 
 **Dataset**
 
@@ -30,3 +30,17 @@ The dataset used in the above-mentioned research paper was taken from the <a hre
 **Comparsion Results**
 
 <img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/comp_table.PNG" width = "600">
+
+**ROC Curve**
+
+1. Using Linear Kernel
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/ROC_linear_kernel.PNG" width=500>
+
+2. Using Polynomial Kernel
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/ROC_Polynomial_Kernel.PNG" width=500>
+
+3. Using Radial Basis Function Kernel (RBF)
+
+<img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/ROC_RBF.PNG" width=500>
