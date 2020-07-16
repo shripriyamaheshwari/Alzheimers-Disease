@@ -27,6 +27,17 @@ The <a href = "https://pubmed.ncbi.nlm.nih.gov/29320986/">research paper</a> by 
 
 The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The featurs include number of positive and negative Alzheimer's cases in control studies and family-based studies.
 
+**Python Libraries used**
+
+1. Scikit-learn
+2. Numpy
+3. Pandas
+4. Matplotlib
+5. Pylab
+6. Itertools
+
+Environment: Python 3, Windows 10
+
 **Code Output**
 
 **Note:** The current code prints the output according to the RBF kernel. If you want to use other kinds of Kernel, un-comment lines 35-38 as per your convenience.
