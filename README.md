@@ -29,6 +29,8 @@ The dataset used in the above-mentioned research paper was taken from the <a hre
 
 **Code Output**
 
+**Note:** The current code prints the output according to the RBF kernel. If you want to use other kinds of Kernel, un-comment lines 35-38 as per your convenience.
+
 1. SVM Method (Radial Kernel, C=1)
 
 <img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/SVM_radial_kernel.PNG" width = 600>
@@ -44,6 +46,8 @@ The dataset used in the above-mentioned research paper was taken from the <a hre
 **Comparsion Results**
 
 <img src = "https://github.com/shripriyamaheshwari/Alzheimers-Disease/blob/master/Images/comp_table.PNG" width = "600">
+
+**Note:** The accuracy in the case of R-library (i.e. the first row in the table above), is referenced from the research paper mentioned above. We have not implemented the code in R.
 
 **ROC Curve**
 
