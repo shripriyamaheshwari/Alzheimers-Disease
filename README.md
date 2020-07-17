@@ -1,4 +1,4 @@
-# Alzheimers-Disease
+# Predicting Susceptibility to Alzheimer's Disease using Python
 
 **Introduction**
 
